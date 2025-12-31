@@ -6,7 +6,7 @@ namespace API.DTOs;
 public class LoginDto
 {
     [Required]
-    [EmailAddress(ErrorMessage = "Invalid email addres")]
+    [EmailAddress(ErrorMessage = "Invalid email address")]
     public string Email { get; set; } = string.Empty;
 
     [Required]

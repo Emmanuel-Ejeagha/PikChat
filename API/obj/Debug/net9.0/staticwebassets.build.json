@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "XhOWLmr7vP6qDASaGpOJ+b/ICN62otNyMAoGSQRfD9g=",
+  "Hash": "5JWTN0Z8vpauvGw1ogIKlVb2t/ikFEffQ7OmZkqHuqQ=",
   "Source": "API",
   "BasePath": "_content/API",
   "Mode": "Default",
@@ -78,6 +78,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/uploads/1d8c9c4a-8da8-447a-97fe-40542a732d79.jpeg"
+    },
+    {
+      "Identity": "/home/emmytek/Desktop/Real_Time_Chat_App/API/wwwroot/uploads/2437b6be-4f64-4eb4-99dd-0b94932ac10f.png",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emmytek/Desktop/Real_Time_Chat_App/API/wwwroot/",
+      "BasePath": "_content/API",
+      "RelativePath": "uploads/2437b6be-4f64-4eb4-99dd-0b94932ac10f#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "i0stkbt66p",
+      "Integrity": "7txgVvjbTPXHoa4rky4UIc0B1ElGCULfFDZTzyQvW70=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/uploads/2437b6be-4f64-4eb4-99dd-0b94932ac10f.png"
     },
     {
       "Identity": "/home/emmytek/Desktop/Real_Time_Chat_App/API/wwwroot/uploads/34648106-7360-480d-b7ef-72420633c097.png",
@@ -162,6 +183,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/uploads/69b51186-2c47-44c7-ba75-7bf600a94d89.png"
+    },
+    {
+      "Identity": "/home/emmytek/Desktop/Real_Time_Chat_App/API/wwwroot/uploads/702a5395-9e6e-4b06-89f3-722e6031f26e.png",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emmytek/Desktop/Real_Time_Chat_App/API/wwwroot/",
+      "BasePath": "_content/API",
+      "RelativePath": "uploads/702a5395-9e6e-4b06-89f3-722e6031f26e#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "i0stkbt66p",
+      "Integrity": "7txgVvjbTPXHoa4rky4UIc0B1ElGCULfFDZTzyQvW70=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/uploads/702a5395-9e6e-4b06-89f3-722e6031f26e.png"
     },
     {
       "Identity": "/home/emmytek/Desktop/Real_Time_Chat_App/API/wwwroot/uploads/7a5c9237-18f0-4956-9828-6841b2359608.png",
@@ -330,6 +372,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/uploads/ae0415c7-3bbd-454c-b7eb-62cb0d3f326d.png"
+    },
+    {
+      "Identity": "/home/emmytek/Desktop/Real_Time_Chat_App/API/wwwroot/uploads/b9be4cc4-e4f5-4cb9-b897-3773812d571c.jpg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emmytek/Desktop/Real_Time_Chat_App/API/wwwroot/",
+      "BasePath": "_content/API",
+      "RelativePath": "uploads/b9be4cc4-e4f5-4cb9-b897-3773812d571c#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qagoz3ve26",
+      "Integrity": "gse2/6KYXGI6Ga9l132s65yOvLtD6rNVsKqAbYynZXk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/uploads/b9be4cc4-e4f5-4cb9-b897-3773812d571c.jpg"
+    },
+    {
+      "Identity": "/home/emmytek/Desktop/Real_Time_Chat_App/API/wwwroot/uploads/d762ddc0-833f-49df-87a8-753f7dd394eb.png",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emmytek/Desktop/Real_Time_Chat_App/API/wwwroot/",
+      "BasePath": "_content/API",
+      "RelativePath": "uploads/d762ddc0-833f-49df-87a8-753f7dd394eb#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7jonjejko4",
+      "Integrity": "8/Y/Y2YyniN5LsN5EfoQgTmG7w3Vv8YeQxJz3UvdyYE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/uploads/d762ddc0-833f-49df-87a8-753f7dd394eb.png"
     },
     {
       "Identity": "/home/emmytek/Desktop/Real_Time_Chat_App/API/wwwroot/uploads/dec94478-51b4-4474-a577-6d5c1da9114b.png",
@@ -706,6 +790,88 @@
       ]
     },
     {
+      "Route": "uploads/2437b6be-4f64-4eb4-99dd-0b94932ac10f.i0stkbt66p.png",
+      "AssetFile": "/home/emmytek/Desktop/Real_Time_Chat_App/API/wwwroot/uploads/2437b6be-4f64-4eb4-99dd-0b94932ac10f.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1552106"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7txgVvjbTPXHoa4rky4UIc0B1ElGCULfFDZTzyQvW70=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 31 Dec 2025 15:56:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i0stkbt66p"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/2437b6be-4f64-4eb4-99dd-0b94932ac10f.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7txgVvjbTPXHoa4rky4UIc0B1ElGCULfFDZTzyQvW70="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/2437b6be-4f64-4eb4-99dd-0b94932ac10f.png",
+      "AssetFile": "/home/emmytek/Desktop/Real_Time_Chat_App/API/wwwroot/uploads/2437b6be-4f64-4eb4-99dd-0b94932ac10f.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1552106"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7txgVvjbTPXHoa4rky4UIc0B1ElGCULfFDZTzyQvW70=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 31 Dec 2025 15:56:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7txgVvjbTPXHoa4rky4UIc0B1ElGCULfFDZTzyQvW70="
+        }
+      ]
+    },
+    {
       "Route": "uploads/34648106-7360-480d-b7ef-72420633c097.o20000s10a.png",
       "AssetFile": "/home/emmytek/Desktop/Real_Time_Chat_App/API/wwwroot/uploads/34648106-7360-480d-b7ef-72420633c097.png",
       "Selectors": [],
@@ -1030,6 +1196,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-YACst2dbMP8zWaVuIHg2bDIsvakJC3PQ1bVqfkuZoYI="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/702a5395-9e6e-4b06-89f3-722e6031f26e.i0stkbt66p.png",
+      "AssetFile": "/home/emmytek/Desktop/Real_Time_Chat_App/API/wwwroot/uploads/702a5395-9e6e-4b06-89f3-722e6031f26e.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1552106"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7txgVvjbTPXHoa4rky4UIc0B1ElGCULfFDZTzyQvW70=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 31 Dec 2025 15:38:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i0stkbt66p"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/702a5395-9e6e-4b06-89f3-722e6031f26e.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7txgVvjbTPXHoa4rky4UIc0B1ElGCULfFDZTzyQvW70="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/702a5395-9e6e-4b06-89f3-722e6031f26e.png",
+      "AssetFile": "/home/emmytek/Desktop/Real_Time_Chat_App/API/wwwroot/uploads/702a5395-9e6e-4b06-89f3-722e6031f26e.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1552106"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7txgVvjbTPXHoa4rky4UIc0B1ElGCULfFDZTzyQvW70=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 31 Dec 2025 15:38:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7txgVvjbTPXHoa4rky4UIc0B1ElGCULfFDZTzyQvW70="
         }
       ]
     },
@@ -1686,6 +1934,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/b9be4cc4-e4f5-4cb9-b897-3773812d571c.jpg",
+      "AssetFile": "/home/emmytek/Desktop/Real_Time_Chat_App/API/wwwroot/uploads/b9be4cc4-e4f5-4cb9-b897-3773812d571c.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "72529"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gse2/6KYXGI6Ga9l132s65yOvLtD6rNVsKqAbYynZXk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 31 Dec 2025 16:21:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gse2/6KYXGI6Ga9l132s65yOvLtD6rNVsKqAbYynZXk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/b9be4cc4-e4f5-4cb9-b897-3773812d571c.qagoz3ve26.jpg",
+      "AssetFile": "/home/emmytek/Desktop/Real_Time_Chat_App/API/wwwroot/uploads/b9be4cc4-e4f5-4cb9-b897-3773812d571c.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "72529"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gse2/6KYXGI6Ga9l132s65yOvLtD6rNVsKqAbYynZXk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 31 Dec 2025 16:21:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qagoz3ve26"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/b9be4cc4-e4f5-4cb9-b897-3773812d571c.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gse2/6KYXGI6Ga9l132s65yOvLtD6rNVsKqAbYynZXk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/d762ddc0-833f-49df-87a8-753f7dd394eb.7jonjejko4.png",
+      "AssetFile": "/home/emmytek/Desktop/Real_Time_Chat_App/API/wwwroot/uploads/d762ddc0-833f-49df-87a8-753f7dd394eb.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "400579"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8/Y/Y2YyniN5LsN5EfoQgTmG7w3Vv8YeQxJz3UvdyYE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Nov 2025 11:29:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7jonjejko4"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/d762ddc0-833f-49df-87a8-753f7dd394eb.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8/Y/Y2YyniN5LsN5EfoQgTmG7w3Vv8YeQxJz3UvdyYE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/d762ddc0-833f-49df-87a8-753f7dd394eb.png",
+      "AssetFile": "/home/emmytek/Desktop/Real_Time_Chat_App/API/wwwroot/uploads/d762ddc0-833f-49df-87a8-753f7dd394eb.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "400579"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8/Y/Y2YyniN5LsN5EfoQgTmG7w3Vv8YeQxJz3UvdyYE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Nov 2025 11:29:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8/Y/Y2YyniN5LsN5EfoQgTmG7w3Vv8YeQxJz3UvdyYE="
         }
       ]
     },
